@@ -8,7 +8,7 @@ class ApiConstants {
   ApiConstants._();
 
   /// URL base del backend Spring Boot.
-  static const String baseUrl = "https://back-planetas-lastest.onrender.com";
+  static const String baseUrl = "https://back-planetas-lastest.onrender.com/api";
 
   /// Endpoint del recurso "planetas".
   static const String planetasEndpoint = "$baseUrl/planetas";
